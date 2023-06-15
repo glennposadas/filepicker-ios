@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "80B094DD-907A-4389-8A83-57A54AD90B92"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3514B4EE-5812-46BD-AF9F-7E7B3785B36D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentuPickeru/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "documentPicker(_:didPickDocumentsAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3514B4EE-5812-46BD-AF9F-7E7B3785B36D - bb8f9c926e515ad4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocumentuPickeru.DocumentPicker.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "DocumentuPickeru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glennposadas/Documents/GIT/Training/DocumentuPickeru/DocumentuPickeru/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "3514B4EE-5812-46BD-AF9F-7E7B3785B36D - 523e506a2056cb38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Foundation.URL) -&gt; () in DocumentuPickeru.DocumentPicker.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentsAt: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "DocumentuPickeru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glennposadas/Documents/GIT/Training/DocumentuPickeru/DocumentuPickeru/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "402EEC8D-7789-4858-89A9-469FCFA7836C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentuPickeru/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "documentPicker(_:didPickDocumentAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "402EEC8D-7789-4858-89A9-469FCFA7836C - 3c996e42ba91567f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DocumentuPickeru.DocumentPicker.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentAt: Foundation.URL) -&gt; ()"
+                  moduleName = "DocumentuPickeru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glennposadas/Documents/GIT/Training/DocumentuPickeru/DocumentuPickeru/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "402EEC8D-7789-4858-89A9-469FCFA7836C - f60b6619a57ba740"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DocumentuPickeru.DocumentPicker.documentPicker(_: __C.UIDocumentPickerViewController, didPickDocumentAt: Foundation.URL) -&gt; ()"
+                  moduleName = "DocumentuPickeru"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/glennposadas/Documents/GIT/Training/DocumentuPickeru/DocumentuPickeru/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9169B056-D8BE-4492-822A-DA265488E072"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentuPickeru/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "documentPickerWasCancelled(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2752A247-06EA-49ED-B9AB-3EDA82C5E6B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DocumentuPickeru/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "didPickDocument(document:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
